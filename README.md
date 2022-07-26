@@ -34,11 +34,11 @@ You can call the service from SingularityNET CLI (`snet`).
 Assuming that you have an open channel (`id: 0`) to this service:
 
 ```
-$ snet client call 0 0.1 asr.naint.tech:81 s2t samples/sample.txt
+$ snet client call 0 0.1 ?.naint.tech:? e2t samples/sample.txt
 
 Read call params from the file: samples/sample.txt
 
-text: "after a time she heard a little pattering of feet in the distance and she hastily dried her eyes to see what was coming"
+text: "happy"
 ```
 
 ## What to expect from this service?
